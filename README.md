@@ -34,7 +34,7 @@ flowchart LR
     C --> D[Outline Generator Agent]
     D --> E[Blog Writer Agent]
     E --> F[Markdown Export]
-    F --> G[README-ready Blog Article]
+    F --> G[README-ready Blog Article]```
 
 Each agent performs **one specialized task** and passes the result to the next step.
 
@@ -145,10 +145,15 @@ If you use the `.venv` from step 1:
 Then enter a topic, click **Generate blog**, and view or download the article.
 
 ## Use Case
+
+### Blog Writer Agent Output (Example)
 ![Blog-Generator](assets/image-article.png)
 
+### Research Agent Output (Example)
 ![Blog-Generator](assets/image-research.png)
 
+### Fact Extraction Agent Output (Example)
 ![Blog-Generator](assets/image-facts.png)
 
+### Outline Generator Agent Output (Example)
 ![Blog-Generator](assets/image-outline.png)
