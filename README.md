@@ -147,6 +147,6 @@ Then enter a topic, click **Generate blog**, and view or download the article.
 
 ### Outline Generator Agent Output (Example)
 
-<img src="assets/image-outline.png" alt="Outline output" width="600" />
+<img src="assets/image-outline.png" alt="Outline output" width="900" />
 
 ---
