@@ -133,11 +133,17 @@ Then enter a topic, click **Generate blog**, and view or download the article.
 ### Blog Writer Agent Output (Example)
 ![Blog-Generator](assets/image-article.png)
 
+---
+
 ### Research Agent Output (Example)
 ![Blog-Generator](assets/image-research.png)
 
+---
+
 ### Fact Extraction Agent Output (Example)
 ![Blog-Generator](assets/image-facts.png)
+
+---
 
 ### Outline Generator Agent Output (Example)
 ![Blog-Generator](assets/image-outline.png)
