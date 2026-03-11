@@ -142,10 +142,13 @@ If you use the `.venv` from step 1:
 .venv/bin/streamlit run app.py
 ```
 
-Otherwise:
-
-```bash
-streamlit run app.py
-```
-
 Then enter a topic, click **Generate blog**, and view or download the article.
+
+## Use Case
+![Blog-Generator](assets/image-article.png)
+
+![Blog-Generator](assets/image-research.png)
+
+![Blog-Generator](assets/image-facts.png)
+
+![Blog-Generator](assets/image-outline.png)
