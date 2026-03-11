@@ -34,7 +34,8 @@ flowchart LR
     C --> D[Outline Generator Agent]
     D --> E[Blog Writer Agent]
     E --> F[Markdown Export]
-    F --> G[README-ready Blog Article]```
+    F --> G[README-ready Blog Article]
+```
 
 Each agent performs **one specialized task** and passes the result to the next step.
 
@@ -64,27 +65,6 @@ This makes them ideal for **learning agentic AI system design**.
 
 ---
 
-## Project Structure
-
-```text
-agentic-blog-generator/
-├── agents/
-│   ├── research_agent.py
-│   ├── fact_extractor_agent.py
-│   ├── outline_agent.py
-│   └── blog_writer_agent.py
-├── workflows/
-│   └── linear_pipeline.py
-├── utils/
-│   └── markdown_exporter.py
-├── examples/
-│   └── example_blog.md
-├── main.py
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
 ## Agent Responsibilities
 
 ### Research Agent
@@ -102,6 +82,8 @@ Creates a **structured blog outline**.
 ### Blog Writer Agent
 
 Expands the outline into a **complete blog article**.
+
+---
 
 ## Running the Project
 
@@ -143,6 +125,8 @@ If you use the `.venv` from step 1:
 ```
 
 Then enter a topic, click **Generate blog**, and view or download the article.
+
+---
 
 ## Use Case
 
